@@ -6,7 +6,9 @@
   
  🛠️Currently Working On:
 - Laravel projects 
-  
+
+⚡ Fun fact: Je connais un peu le français😅
+
 
 ---
 
@@ -20,6 +22,8 @@
 
 ### Frameworks & Tools
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
+
 
 
 
