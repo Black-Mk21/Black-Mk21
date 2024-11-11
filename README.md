@@ -1,13 +1,12 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Devops Engineer from Burundi 
+👤 Computer Enginner with passion for web, app, and software development. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 💼 Currently working on building reliable and efficient systems with a focus on scalability and performance.
-- 🔭 Open to collaborative projects that allow me to innovate and improve existing infrastructure.
-- 🌱 Currently learning new DevOps tools and enhancing my knowledge in cloud solutions.
-- 💬 Ask me about *Automation, **CI/CD, and **Containerization*.
-
+  
+ 🛠️Currently Working On:
+-  PHP and Laravel projects 
+  
 
 ---
 
