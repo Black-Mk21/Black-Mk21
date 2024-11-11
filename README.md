@@ -5,7 +5,7 @@
 
   
  🛠️Currently Working On:
--  PHP and Laravel projects 
+- Laravel projects 
   
 
 ---
