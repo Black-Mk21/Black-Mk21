@@ -7,7 +7,7 @@
  🛠️Currently Working On:
 - Laravel projects 
 
-⚡ Fun fact: Je connais un peu le français😅
+⚡ Fun fact: Eu sei um pouco de português😅
 
 
 ---
